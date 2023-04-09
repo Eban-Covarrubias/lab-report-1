@@ -8,4 +8,7 @@ View OpeningVScode.png, this is what you should see.
 ![Image](OpeningVScode.png)
 
 
-Step 2: Open the terminal 
+Step 2: Open the terminal by going to the menu bar on top and clicking terminal -> new terminal. Set the default terminal to use Git Bash by clicking the 
+lauch profile drop down arrow and selecting git bash from the list. The arrow is circled bellow:
+![Image](GitBash.png)
+
